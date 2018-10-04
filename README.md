@@ -28,6 +28,7 @@ var email = (type, defectedService, error, cause)<br>
 
 ## __LOADER.JS , pingConfig.json , rssConfig.json:-__
 >The 2 json files contain the state for rssPoll and ping_health functions. The Loader.js generates or updates these 2 files on initial setup or changes in main config file.
-
+##kartik
+hii..
 
 
